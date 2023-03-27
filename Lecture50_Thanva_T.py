@@ -13,4 +13,3 @@ multiplyNumber(25,10)
 def divideNumber(x,y):
     print(x/y)
 divideNumber(25,10)
-
